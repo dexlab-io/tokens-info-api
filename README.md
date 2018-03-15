@@ -18,6 +18,8 @@
 
 ## Description
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dexlab-io/tokens-info-api.svg)](https://greenkeeper.io/)
+
 Public API of ERC20 token informations and images 🔥
 
 ## Installation
