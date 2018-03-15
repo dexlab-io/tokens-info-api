@@ -13,6 +13,7 @@
     <a href=""><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
     <a href="https://travis-ci.org/nestjs/nest"><img src="https://api.travis-ci.org/nestjs/nest.svg?branch=master" alt="Travis" /></a>
     <a href="https://coveralls.io/github/nestjs/nest?branch=master"><img src="https://coveralls.io/repos/github/nestjs/nest/badge.svg?branch=master#2" alt="Coverage" /></a>
+    [![HitCount](http://hits.dwyl.io/dexlab-io/tokens-info-api.svg)](http://hits.dwyl.io/dexlab-io/tokens-info-api)
 </p>
 
 ## Description
