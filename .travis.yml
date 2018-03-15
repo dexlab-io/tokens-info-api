@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+  - "9.5.0"
+
+install:
+  - npm install
+
+script:
+  - npm run prestart:prod
