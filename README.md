@@ -19,7 +19,7 @@
 
 Public API of ERC20 token informations and images 🔥
 
-Written in:
+Based on:
 [Nest](https://github.com/nestjs/nest) framework **TypeScript** starter repository.
 
 ## Installation

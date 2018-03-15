@@ -1,7 +1,7 @@
 {
-  "name": "nest-typescript-starter",
-  "version": "1.0.0",
-  "description": "Nest TypeScript starter repository",
+  "name": "token-info-api",
+  "version": "0.0.1",
+  "description": "Public API of ERC20 token informations and images",
   "license": "MIT",
   "scripts": {
     "start": "node index.js",
