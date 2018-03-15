@@ -2,19 +2,22 @@
   <a href="https://www.dexlab.io/" target="blank"><img src="https://www.dexlab.io/static/DEXEX-logo.227b875e.png" alt="Dexlab Logo" /></a>
 </p>
 
-[travis-image]: https://api.travis-ci.org/nestjs/nest.svg?branch=master
-[travis-url]: https://travis-ci.org/nestjs/nest
-[linux-image]: https://img.shields.io/travis/nestjs/nest/master.svg?label=linux
-[linux-url]: https://travis-ci.org/nestjs/nest
 
  <p align="center">Public API of ERC20 token informations and images.</p>
 
 <p align="center">
-    <a href=""><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
-    <a href="https://travis-ci.org/nestjs/nest"><img src="https://api.travis-ci.org/nestjs/nest.svg?branch=master" alt="Travis" /></a>
-    <a href="https://coveralls.io/github/nestjs/nest?branch=master"><img src="https://coveralls.io/repos/github/nestjs/nest/badge.svg?branch=master#2" alt="Coverage" /></a>
-    [![HitCount](http://hits.dwyl.io/dexlab-io/tokens-info-api.svg)](http://hits.dwyl.io/dexlab-io/tokens-info-api)
-    [![Greenkeeper badge](https://badges.greenkeeper.io/dexlab-io/tokens-info-api.svg)](https://greenkeeper.io/)
+    <a href="https://travis-ci.org/dexlab-io/tokens-info-api">
+      <img src="https://travis-ci.org/dexlab-io/tokens-info-api.svg?branch=master" alt="Travis" />
+    </a>
+    <a href="https://coveralls.io/github/nestjs/nest?branch=master">
+      <img src="https://coveralls.io/repos/github/nestjs/nest/badge.svg?branch=master#2" alt="Coverage" />
+    </a>
+    <a href="http://hits.dwyl.io/dexlab-io/tokens-info-api">
+      <img src="http://hits.dwyl.io/dexlab-io/tokens-info-api.svg"/>
+    </a>
+    <a href="https://greenkeeper.io/">
+      <img src="https://badges.greenkeeper.io/dexlab-io/tokens-info-api.svg"/>
+    </a>
 </p>
 
 ## Description
