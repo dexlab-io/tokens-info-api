@@ -24,6 +24,9 @@
 Public API of ERC20 token informations and images 🔥
 Use it for free at [https://token-info-api-mmhvmxdeam.now.sh](https://token-info-api-mmhvmxdeam.now.sh)
 
+## Donate
+ETH: 0x1e3c6aadcf9ece27fef76d7087e2eff0f559eeb9 ❤️
+
 ## Installation
 
 ```bash
