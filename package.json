@@ -17,6 +17,8 @@
     "@nestjs/testing": "^4.5.5",
     "@nestjs/websockets": "^4.5.8",
     "js-yaml": "^3.11.0",
+    "lodash": "^4.17.5",
+    "lodash-es": "^4.17.7",
     "redis": "^2.7.1",
     "reflect-metadata": "^0.1.12",
     "rxjs": "^5.5.6",
