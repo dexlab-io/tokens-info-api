@@ -15,7 +15,7 @@
     "@nestjs/microservices": "^4.5.8",
     "@nestjs/swagger": "^1.1.4",
     "@nestjs/testing": "^4.5.5",
-    "@nestjs/websockets": "^4.5.8",
+    "@nestjs/websockets": "^5.2.1",
     "js-yaml": "^3.11.0",
     "lodash": "^4.17.5",
     "lodash-es": "^4.17.7",
